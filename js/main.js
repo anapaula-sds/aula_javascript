@@ -1,10 +1,4 @@
-let line = gets().split("Visita na Feira ");
-let A = parseInt(line[]);
-let B = parseInt(line[]);
-let total = A + B; // Altere o valor da variável com o cálculo esperado
-console.log("X = " + total);
-
-/*function clicou(){
+function clicou(){
     document.getElementById("Agradecimento");
     console.log(document.getElementById("Agradecimento"));
     //alert("Obrigado por clicar");
